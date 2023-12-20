@@ -34,6 +34,7 @@ Laboratory Management System is a web application that helps to manage the labor
 - run "composer install"
 - run "php artisan key:generate"
 - run "php artisan migrate"
+- run "php artisan migrate --path=/app/Console/migrations"
 - run "php artisan serve"
 - open browser and go to http://127.0.0.1:8000/
 - login with admin user or signup with admin user
